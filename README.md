@@ -69,11 +69,14 @@ Ingeniero de Software | Desarrollador Front-End | Apasionado por la gestión de 
   <tr>
     <td style="width: 50%; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px;">
       <h3 align="center" style="color: #2c3e50; font-size: 1.5rem; margin-bottom: 15px;">
-        Sistema de Administración de Restaurantes
+        Sistema de Gestión de Restaurantes
       </h3>
       <p align="center" style="margin-bottom: 20px; font-weight: bold; color: #7f8c8d;">
         <em>(Gestor de Proyectos)</em>
       </p>
+      <div style="text-align: center;">
+        <img src="img/gourmetgo.png" alt="GourmetGo Logo" style="display: block; margin: auto; max-width: 100%; height: auto;">
+      </div>
       <div align="center">
         <a href="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-FrontEnd" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
@@ -87,7 +90,8 @@ Ingeniero de Software | Desarrollador Front-End | Apasionado por la gestión de 
     </td>
   </tr>
 </table>
----
+
+
 
 ### 📊 **Mi Actividad en GitHub:**
 
