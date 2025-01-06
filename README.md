@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Santamaría</h1>
+<img src="img/banner.png">
 <h3 align="center">
 Ingeniero de Software | Desarrollador Front-End | Apasionado por la gestión de proyectos y auditorías de procesos
 </h3>
@@ -64,10 +65,52 @@ Ingeniero de Software | Desarrollador Front-End | Apasionado por la gestión de 
 ---
 
 ### 🚀 **Proyectos Destacados:**
-- **E-commerce:** Desarrollo de plataformas de comercio electrónico eficientes y seguras.  
-- **Aplicaciones Móviles:** Creación de aplicaciones móviles prácticas como gestores de tareas.  
-- **Gestión de Proyectos:** Liderazgo en proyectos tecnológicos enfocados en calidad y objetivos estratégicos.
-
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; padding: 20px; background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 8px;">
+      <h3 align="center" style="color: #2c3e50; font-size: 1.5rem; margin-bottom: 15px;">
+        Sistema de Administración de Restaurantes
+      </h3>
+      <p align="center" style="margin-bottom: 20px; font-weight: bold; color: #7f8c8d;">
+        <em>(Gestor de Proyectos)</em>
+      </p>
+      <div align="center">
+        <a href="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-FrontEnd" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+               alt="Repositorio del Proyecto" 
+               style="margin-bottom: 15px;">
+        </a>
+      </div>
+      <p style="text-align: justify; font-size: 1rem; line-height: 1.6; color: #34495e;">
+        Este sistema integral está diseñado para la gestión administrativa de restaurantes. Ofrece una solución web y móvil que permite a los usuarios administrativos manejar todas las operaciones clave del negocio, mientras los usuarios compradores disfrutan de una experiencia optimizada para interactuar con los servicios del restaurante. Con funcionalidades modernas y prácticas, este sistema simplifica la administración y mejora la eficiencia operativa.
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
-Espero que esta versión refinada y estructurada del README cumpla con tus expectativas. Si necesitas más ajustes, no dudes en pedírmelo.
+### 📊 **Mi Actividad en GitHub:**
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=CriSant20&show_icons=true&theme=radical" 
+         alt="Estadísticas de GitHub de CriSant20" 
+         height="165" 
+         style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriSant20&layout=compact&theme=radical" 
+         alt="Lenguajes más utilizados por CriSant20" 
+         height="165" 
+         style="margin-left: 10px;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=CriSant20" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=CriSant20&theme=radical&row=1&column=6" 
+         alt="Trofeos en GitHub de CriSant20" />
+  </a>
+</p>
+
+
